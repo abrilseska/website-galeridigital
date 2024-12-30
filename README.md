@@ -1,0 +1,2 @@
+# website-galeridigital
+Praktikum web
